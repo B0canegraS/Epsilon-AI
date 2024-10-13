@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #001f3f; /* Azul oscuro */
-    color: white;
+    background-color: #dcf5ff; /* Azul claro */
+    color: #001f3f; /* Texto en azul oscuro para contraste */
 }
 
 header {
@@ -28,6 +28,7 @@ section {
 input[type="text"] {
     padding: 10px;
     width: 300px;
+    border: 1px solid #001f3f; /* Bordes en azul oscuro */
 }
 
 button {
